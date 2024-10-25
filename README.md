@@ -119,7 +119,7 @@ The `main.js` file contains the code for setting up the Electron window and embe
 
 ### `index.js`
 
-The `main.js` file creates an Electron window, loads an embedded HTML string as the content, and defines basic window behaviors (like closing the app when all windows are closed).
+The `index.js` file creates an Electron window, loads an embedded HTML string as the content, and defines basic window behaviors (like closing the app when all windows are closed).
 
 ### HTML and CSS
 
